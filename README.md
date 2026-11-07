@@ -1,6 +1,6 @@
 # TaskFlow – Daily Task Manager
 
-A full-stack Daily Task Management application built using React, Node.js, Express.js and MySQL. TaskFlow helps users organize daily activities, track progress and manage pending tasks automatically.
+ Task Management application for createing todo
 
 ## Features
 
